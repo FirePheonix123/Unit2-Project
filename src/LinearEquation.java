@@ -14,7 +14,6 @@ public class LinearEquation {
          y1 = newY1;
          x2 = newX2;
          y2 = newY2;
-         //return "";
     }
     private double format(double num) {
         num = Math.round(num * 100) / 100.0;;
